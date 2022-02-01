@@ -1,9 +1,7 @@
-### Quem sou eu?
+### Who am I?
 
-Aspirante a desenvolvedor em ciências de dados.
+Aspiring data science developer.
 
-Atualmente estudando Ciência de dados com Python, R e SQL. 
+Currently studying Python, R and SQL, aplied to the field of data science. 
 
-Formado em Aprendizagem em Instalação Elétrica Industrial e Aprendizagem em Processos Logísticos.
-
-Você também pode me encontrar em meu perfil do LinkedIn: https://www.linkedin.com/in/pablo-hidalgo-juli%C3%A3o-pinto/
+Follow me in my LinkedIn account: https://www.linkedin.com/in/pablo-hidalgo-juli%C3%A3o-pinto/
